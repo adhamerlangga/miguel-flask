@@ -7,7 +7,7 @@ to run this web:
 - activate virtual environment
 
 ``` bash
-source venv/Scripts/activate
+source .venv/Scripts/activate
 ```
 
 - flask run
